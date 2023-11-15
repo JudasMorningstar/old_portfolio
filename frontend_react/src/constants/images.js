@@ -16,11 +16,13 @@ import logo from "../assets/logo.png";
 import nextjs from "../assets/Nextjs.png";
 import clerk from "../assets/clerk.png";
 import prisma from "../assets/prisma.png";
+import email from "../assets/email.png";
 
 export default {
   clerk,
   nextjs,
   prisma,
+  email,
   mobile,
   figma,
   git,
